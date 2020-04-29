@@ -24,7 +24,7 @@ steps:
   inputs:
     command: publish
     publishRegistry: useFeed
-    publishFeed: react-app-feed
+    publishFeed: Azure Dev Ops Repo/react-app-feed
   displayName: 'publish to feed'
 
 - task: PublishBuildArtifacts@1
